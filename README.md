@@ -98,7 +98,6 @@ scannet
 
 1.3. Reconfig the bash (**$VIDEO_BASE_DATA_DIR**) and run the video inference script
 ```
-# vi infer_bash/video.sh 
 bash infer_bash/video.sh
 ```
 
