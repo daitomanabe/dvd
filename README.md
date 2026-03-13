@@ -95,7 +95,7 @@ pip install sageattention # DO NOT USE THIS FOR TRAINING!!!
 ```
 ### 🤗 Download the checkpoint from Huggingface
 
-#### 1. Make dir and login to huggingface
+#### 1. Login to huggingface
 ```
 huggingface-cli login # Or hf auth login 
 ```
