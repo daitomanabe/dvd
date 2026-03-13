@@ -10,7 +10,7 @@ Before starting, it is helpful to understand the core scripts involved in the tr
 * `examples/wanvideo/model_training/WanTrainingModule.py`: Handles training and validate logic. Please note that we only validate on a single window during training. Please consider use the inference script to perform more validation to save time if needed.
 * `examples/dataset`: Handles dataset (both train and val).
 * `train_config/normal_config/video_config_new.yaml`: Contains all hyperparameters, including learning rate, batch size, dataset config and so on.
-* `diffsynth/pipelines/wan_video_new_determine.py`: The core model architecture, including the Latent Manifold Rectification (LMR) modules.
+* `diffsynth/pipelines/wan_video_new_determine.py`: The core model architecture.
 
 ---
 
