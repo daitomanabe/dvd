@@ -13,7 +13,7 @@ _**[Hongfei Zhang](https://x.com/hongfeizhang0xF)<sup>1*</sup>, [Harold H. Chen]
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
- <a href='#'><img src='https://img.shields.io/badge/arXiv-TBD-b31b1b.svg'></a>
+ <a href='https://arxiv.org/abs/2603.12250'><img src='https://img.shields.io/badge/arXiv-2603.12250-b31b1b.svg'></a>
  [![Project Page](https://img.shields.io/badge/DVD-Website-green?logo=googlechrome&logoColor=green)](https://dvd-project.github.io/)
 <br>
 
@@ -43,7 +43,7 @@ By cleanly stripping away generative stochasticity, DVD unites the semantic rich
 ---
 
 ## 📢 News
-- **[2026.03.13]** 📄 Paper is available on arXiv.
+- **[2026.03.13]** 📄 Paper is available on [arXiv](https://arxiv.org/abs/2603.12250).
 - **[2026.03.12]** 🌐 [Project page](https://dvd-project.github.io/) is live.
 - **[2026.03.11]** 🤗 Pre-trained weights released on [Hugging Face](https://huggingface.co/FayeHongfeiZhang/DVD/tree/main).
 - **[2026.03.10]** 🔥 Repository initialized and training & inference code released.
@@ -204,7 +204,7 @@ If you find our work useful in your research, please consider citing:
 @article{zhang2026dvd,
   title={DVD: Deterministic Video Depth Estimation with Generative Priors},
   author={Zhang, Hongfei and Chen, Harold Haodong and Liao, Chenfei and He, Jing and Zhang, Zixin and Li, Haodong and Liang, Yihao and Chen, Kanghao and Ren, Bin and Zheng, Xu and Yang, Shuai and Zhou, Kun and Li, Yinchuan and Sebe, Nicu and Chen, Ying-Cong},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2603.12250},
   year={2026}
 }
 ```
