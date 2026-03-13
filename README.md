@@ -192,10 +192,27 @@ bash infer_bash/image.sh
 
 #### Please refer to this [document](train_script/train.MD) for details on training.
 
+---
+
+## 📜 License
+
+This project adopts a split-license strategy to comply with the licensing terms of our upstream datasets and foundation models:
+
+* **Code:** The source code of DVD is released under the permissive [Apache 2.0 License](LICENSE).
+* **Model Weights:** The pre-trained model weights are released under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/), which strictly limits usage to non-commercial, academic, and research purposes.
+
+By downloading or using the code and models, you agree to abide by these terms.
+
+
+---
+
+
 ## 👏 Acknowledgement
 
 We sincerely thank the authors of [Depth Anything](https://github.com/DepthAnything/Depth-Anything-V2) and [RollingDepth](https://github.com/prs-eth/RollingDepth) for providing their implementing details. We would also thanks the contributors of [DiffSynth](https://github.com/modelscope/DiffSynth-Studio) where we borrow codes from.
 
+
+---
 
 ## 👾 Reference
 
