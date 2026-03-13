@@ -91,7 +91,6 @@ pip install sageattention # DO NOT USE THIS FOR TRAINING!!!
 
 #### 1. Make dir and login to huggingface
 ```
-mkdir ckpt
 huggingface-cli login # Or hf auth login 
 ```
 ####  2. Download the checkpoint from [huggingface repo](https://huggingface.co/FayeHongfeiZhang/DVD/tree/main)
@@ -125,7 +124,7 @@ If you encounter issues during installation, it may be caused by the packages we
 
 ## 🕹️ Inference
 
-### 🤹🏼‍♂️ For AIGC or Open World Evaluation (Stable Setting)
+### 🤹🏼‍♂️ Quick Start With Pre-uploaded Demo Videos (Long Window Setting)
 
 ```
 bash infer_bash/openworld.sh
